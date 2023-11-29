@@ -1,0 +1,12 @@
+com\emergentes\entidades\Libro.class
+com\emergentes\controller\CategoriaServlet.class
+com\emergentes\jpa\CategoriaJpaController.class
+com\emergentes\Bean\BeanCategoria.class
+com\emergentes\jpa\exceptions\PreexistingEntityException.class
+com\emergentes\jpa\LibroJpaController.class
+com\emergentes\jpa\exceptions\NonexistentEntityException.class
+com\emergentes\entidades\Libro_.class
+com\emergentes\entidades\Categoria.class
+com\emergentes\Bean\BeanLibro.class
+com\emergentes\entidades\Categoria_.class
+com\emergentes\jpa\exceptions\IllegalOrphanException.class
